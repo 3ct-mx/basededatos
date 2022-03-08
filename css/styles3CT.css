@@ -282,8 +282,8 @@ div.bgPago {
   border: .5em solid white;
   border-radius: 50%;
 }
-#temario li>li>li {
-  font-size: smaller;
+.temario li {
+  font-size: small;
 }
 #catalogo {
   color: #fff;
