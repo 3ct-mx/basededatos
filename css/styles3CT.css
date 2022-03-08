@@ -285,6 +285,11 @@ div.bgPago {
 #temario ul{
   list-style-type: none;
 }
+#temario li{
+  color: #fff;
+  padding: 0 .5em;
+  margin: 1em 0;
+}
 #catalogo {
   color: #fff;
   padding: 2em 0 4em 0;
