@@ -282,9 +282,6 @@ div.bgPago {
   border: .5em solid white;
   border-radius: 50%;
 }
-#temario ul{
-  list-style-type: none;
-}
 #temario li{
   color: #fff;
   padding: 0 .5em;
