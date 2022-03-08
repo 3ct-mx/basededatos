@@ -283,7 +283,7 @@ div.bgPago {
   border-radius: 50%;
 }
 #temario li > li > li {
-  font-size= small;
+  font-size: smaller;
 }
 #catalogo {
   color: #fff;
