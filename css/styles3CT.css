@@ -282,9 +282,6 @@ div.bgPago {
   border: .5em solid white;
   border-radius: 50%;
 }
-ol.temario {
-  font-size: 1.2em;
-}
 #catalogo {
   color: #fff;
   padding: 2em 0 4em 0;
@@ -388,6 +385,10 @@ main#curso {
   padding: 0 2em;
 }
 
+
+#curso .temario li {
+  font-size: 1.2rem;
+}
 /* anuncios */
 
 #anuncios {
@@ -529,4 +530,3 @@ MEDIA QUERIES
       max-width: 47%;
     }
   }
-
