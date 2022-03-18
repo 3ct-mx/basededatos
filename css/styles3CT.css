@@ -389,9 +389,7 @@ main#curso {
 #curso .temario li {
   font-size: 1.2rem;
 }
-#curso .temario .temarioMongo li>li {
-   counter-increment: item;
-}
+
 /* anuncios */
 
 #anuncios {
